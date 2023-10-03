@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppItems</string>
+    <string name="Acivity">Actividad</string>
+    <string name="IrGoogle">Ir A Google</string>
+    <string name="CrearAlarma">Crear Una Alarma</string>
+    <string name="Llamar">Llamar</string>
+    <string name="Temporizador">Temporizador</string>
+    <string name="Contacto">Ver contacto</string>
+</resources>
